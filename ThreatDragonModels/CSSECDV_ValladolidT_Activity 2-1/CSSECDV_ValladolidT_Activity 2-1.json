@@ -970,6 +970,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -1053,7 +1054,6 @@
               ]
             },
             "id": "3a817f0b-b3f5-46f9-9d28-89c398a9ce8e",
-            "zIndex": 13,
             "data": {
               "type": "tm.Store",
               "name": "LDP",
@@ -1091,6 +1091,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 14,
             "ports": {
               "groups": {
                 "top": {
@@ -1174,7 +1175,6 @@
               ]
             },
             "id": "a00edc9a-2d17-4b09-aea3-68dcf9967f74",
-            "zIndex": 14,
             "data": {
               "type": "tm.Store",
               "name": "Store",
