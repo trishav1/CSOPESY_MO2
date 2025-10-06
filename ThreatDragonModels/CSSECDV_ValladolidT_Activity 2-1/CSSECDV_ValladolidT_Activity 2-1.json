@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "CSSECDV_ValladolidT_Activity 2-1",
+    "owner": "",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "CSSECDV_ValladolidT_Activity 2-1",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
