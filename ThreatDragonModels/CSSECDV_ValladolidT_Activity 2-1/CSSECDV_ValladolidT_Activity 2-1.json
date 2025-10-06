@@ -957,7 +957,7 @@
             },
             "attrs": {
               "text": {
-                "text": "LDP"
+                "text": "LDAP"
               },
               "topLine": {
                 "strokeWidth": 1.5,
@@ -1056,7 +1056,7 @@
             "id": "3a817f0b-b3f5-46f9-9d28-89c398a9ce8e",
             "data": {
               "type": "tm.Store",
-              "name": "LDP",
+              "name": "LDAP",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
