@@ -1080,6 +1080,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "SQL database"
+              },
               "topLine": {
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
@@ -1177,7 +1180,7 @@
             "id": "a00edc9a-2d17-4b09-aea3-68dcf9967f74",
             "data": {
               "type": "tm.Store",
-              "name": "Store",
+              "name": "SQL database",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
