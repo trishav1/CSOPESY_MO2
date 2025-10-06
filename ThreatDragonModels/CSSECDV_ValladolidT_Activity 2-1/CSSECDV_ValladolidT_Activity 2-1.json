@@ -38,6 +38,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -121,7 +122,6 @@
               ]
             },
             "id": "b922bf40-fb0f-4b96-800d-f3df0c0baed5",
-            "zIndex": 1,
             "data": {
               "type": "tm.Process",
               "name": "Authorization Provider",
@@ -631,6 +631,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -714,7 +715,6 @@
               ]
             },
             "id": "63fdbb3b-572d-46be-9cbe-6137e2fe2dc1",
-            "zIndex": 12,
             "data": {
               "type": "tm.Actor",
               "name": "Browser Client",
